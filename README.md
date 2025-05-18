@@ -1,16 +1,35 @@
-# calc
+# 🔢 Flutter Calculator App
 
-A new Flutter project.
+A simple and elegant calculator app built using **Flutter**, supporting light and dark themes.  
+Designed with custom UI components and smooth interaction using `InkWell`.
 
-## Getting Started
+---
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Basic arithmetic operations: `+`, `-`, `×`, `/`
+- Clean, custom UI design using Flutter widgets
+- Light and Dark mode support
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ☀️ Light Mode
+<a href="screenshots/calculator_light.png">
+  <img src="screenshots/calculator_light.png" width="250"/>
+</a>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🌙 Dark Mode
+<a href="screenshots/calculator_dark.png">
+  <img src="screenshots/calculator_dark.png" width="250"/>
+</a>
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Shreen2211/Calcolator.git
+   cd Calcolator
