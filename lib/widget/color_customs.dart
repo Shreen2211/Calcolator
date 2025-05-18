@@ -7,6 +7,7 @@ class ColorCustoms {
   static const Color white = Colors.white;
   static const Color babyBlue = Color(0xffADE2FF);
   static const Color blue = Color(0xff109DFF);
+  static const Color shadowBlue = Color(0xffB2DAFF);
   static const Color darkBlue = Color(0xff005DB2);
   static const Color babyGray = Color(0xff818181);
   static const Color darkGray = Color(0xff303136);
