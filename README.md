@@ -14,13 +14,13 @@ Designed with custom UI components and smooth interaction using `InkWell`.
 ## 📸 Screenshots
 
 ### ☀️ Light Mode
-<a href="screenshots/calculator_light.png">
-  <img src="screenshots/calculator_light.png" width="250"/>
+<a href="ScreenShots/Light_Mode_Calculator.png">
+  <img src="ScreenShots/Light_Mode_Calculator.png" width="250"/>
 </a>
 
 ### 🌙 Dark Mode
-<a href="screenshots/calculator_dark.png">
-  <img src="screenshots/calculator_dark.png" width="250"/>
+<a href="ScreenShots/Dark_Mode_Calculator.png">
+  <img src="ScreenShots/Dark_Mode_Calculator.png" width="250"/>
 </a>
 
 ---
